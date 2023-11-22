@@ -1,14 +1,32 @@
 
 
 ### Hi, I'm Nikolay 👋
-<a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nikolasent&show_icons=true&hide_border=false&icon_color=586069&hide=contribs">
-</a>
-I'm a passionate Deep Learning researcher and developer, particularly focused on multi-task real-time approaches in Computer Vision. Most of my current projects are related to sports analysis based on industrial cameras and LIDARs data.
 
+<p align="left">
+  <a href="https://NikolasEnt.github.io">
+    <img src="https://img.shields.io/badge/NikolasEnt.github.io-blue?style=flat">
+  </a>
+  <a href="https://www.linkedin.com/in/nikolay-falaleev/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+  </a>
+  <a href="https://www.kaggle.com/nikolasent">
+    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/nikolasent">
+  </a>
+  <img src="https://img.shields.io/github/stars/nikolasent?affiliations=OWNER%2CCOLLABORATOR&logo=github" alt="GitHub NikolasEnt's stars">
+  <img src="https://komarev.com/ghpvc/?username=nikolasent&color=blue">
+</p>
+
+
+
+As a dedicated Deep Learning researcher and developer, I specialize in real-time processing of diverse multi-modal data using multi-task pipelines with a primary focus on Computer Vision.
+Many of my projects involve sports analysis using industrial cameras and LIDARs data.
+In my spare time, I participate in Data Science competitions and contribute to research in applied Deep Learning.
 
 📄 CVPRw2020: [TTNet: Real-time temporal and spatial video analysis of table tennis](https://openaccess.thecvf.com/content_CVPRW_2020/html/w53/Voeikov_TTNet_Real-Time_Temporal_and_Spatial_Video_Analysis_of_Table_Tennis_CVPRW_2020_paper.html)
 
+🥇 CVPRw2023 [Top-1, SoccerNet Camera Calibration Challenge 2023](https://nikolasent.github.io/deeplearning/computervision/2023/06/20/SoccerNet-Camera-Calibration-2023.html)
+
+🛠️:
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat&logo=PyTorch&logoColor=fff)
 ![](https://img.shields.io/badge/-TensorFlow-e34f26?style=flat&logo=TensorFlow&logoColor=fff)
 ![](https://img.shields.io/badge/-TFLite-e34f26?style=flat&logo=TensorFlow&logoColor=fff)
@@ -17,17 +35,3 @@ I'm a passionate Deep Learning researcher and developer, particularly focused on
 ![](https://img.shields.io/badge/-Docker-0171e0?style=flat&logo=Docker&logoColor=fff)
 ![](https://img.shields.io/badge/-MLflow-0171e0?style=flat)
 
-<!--
-**NikolasEnt/nikolasent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
