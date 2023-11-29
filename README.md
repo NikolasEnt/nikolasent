@@ -32,6 +32,12 @@ In my spare time, I participate in Data Science competitions and contribute to r
 ![](https://img.shields.io/badge/-TFLite-e34f26?style=flat&logo=TensorFlow&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-333?style=flat&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-C/C++-333?style=flat&logo=C&logoColor=fff)
+![](https://img.shields.io/badge/-DeepStream-76b900?style=flat&logo=Nvidia&logoColor=fff)
+![](https://img.shields.io/badge/-TensorRT-76b900?style=flat&logo=Nvidia&logoColor=fff)
+![](https://img.shields.io/badge/-OpenVINO-0068B5?style=flat&logo=Intel&logoColor=fff)
+![](https://img.shields.io/badge/-FFmpeg-fff?style=flat&logo=FFmpeg&logoColor=008700)
+![](https://img.shields.io/badge/-OpenCV-fff?style=flat&logo=OpenCV&logoColor=3da639)
 ![](https://img.shields.io/badge/-Docker-0171e0?style=flat&logo=Docker&logoColor=fff)
-![](https://img.shields.io/badge/-MLflow-0171e0?style=flat)
+![](https://img.shields.io/badge/-MLflow-0171e0?style=flat&logo=MLflow&logoColor=fff)
+![](https://img.shields.io/badge/-FastAPI-0171e0?style=flat&logo=FastAPI&logoColor=fff)
 
