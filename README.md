@@ -24,7 +24,7 @@ In my spare time, I participate in Data Science competitions and contribute to r
 
 📄 CVPRw2020: [TTNet: Real-time temporal and spatial video analysis of table tennis](https://openaccess.thecvf.com/content_CVPRW_2020/html/w53/Voeikov_TTNet_Real-Time_Temporal_and_Spatial_Video_Analysis_of_Table_Tennis_CVPRW_2020_paper.html)
 
-🥇 CVPRw2023: [Top-1, SoccerNet Camera Calibration Challenge 2023](https://nikolasent.github.io/deeplearning/computervision/2023/06/20/SoccerNet-Camera-Calibration-2023.html)
+🥇 CVPRw2023: [Top-1, SoccerNet Camera Calibration Challenge 2023](https://nikolasent.github.io/deeplearning/computervision/2023/06/20/SoccerNet-Camera-Calibration-2023.html), ⭐[code](https://github.com/NikolasEnt/soccernet-calibration-sportlight)⭐
 
 🛠️:
 ![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat&logo=PyTorch&logoColor=fff)
