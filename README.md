@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
   </a>
   <a href="https://www.kaggle.com/nikolasent">
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/nikolasent">
+    <img src="https://img.shields.io/badge/Kaggle-Master-blue?logo=kaggle">
   </a>
   <img src="https://img.shields.io/github/stars/nikolasent?affiliations=OWNER%2CCOLLABORATOR&logo=github" alt="GitHub NikolasEnt's stars">
   <img src="https://komarev.com/ghpvc/?username=nikolasent&color=blue">
