@@ -16,11 +16,9 @@
   <img src="https://komarev.com/ghpvc/?username=nikolasent&color=blue">
 </p>
 
+I'm a passionate Deep Learning researcher and developer with over a decade of experience in real-time processing of diverse multi-modal data through multi-task pipelines, with a strong emphasis on Computer Vision applications. My work often involves cutting-edge video analysis leveraging industrial cameras and LiDAR data to extract meaningful insights, such as in sports analytics. 
 
-
-As a dedicated Deep Learning researcher and developer, I specialize in real-time processing of diverse multi-modal data using multi-task pipelines with a primary focus on Computer Vision.
-Many of my projects involve sports analysis using industrial cameras and LIDARs data.
-In my spare time, I participate in Data Science competitions and contribute to research in applied Deep Learning.
+In my free time, I enjoy participating in Data Science competitions and contributing to the advancement of applied Deep Learning research and open-source projects. Feel free to explore my repositories and connect if you're as excited about these topics as I am!
 
 📄 CVPRw2020: [TTNet: Real-time temporal and spatial video analysis of table tennis](https://openaccess.thecvf.com/content_CVPRW_2020/html/w53/Voeikov_TTNet_Real-Time_Temporal_and_Spatial_Video_Analysis_of_Table_Tennis_CVPRW_2020_paper.html)
 
